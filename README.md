@@ -1,5 +1,5 @@
 # Kenken-Game
-App to play the game Kenken (Java)
+App to play the game Kenken
 
 ## Usage
 Extract zip and open in terminal
