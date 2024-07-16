@@ -2,7 +2,7 @@
 App to play the game Kenken 
 
 ## Usage
-Open in terminal
+Extract zip and open in terminal
 ```bash
 cd EXE/GAME/bin/
 ./gradlepoc
